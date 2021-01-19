@@ -5,4 +5,4 @@ dubbo:
   application:
     name: demo-webapp # Dubbo Consumer名字
   registry:
-    address: zookeeper://127.0.0.1:2181 # 注册中心地址
+    address: zookeeper://192.168.20.220:2181 # 注册中心地址
